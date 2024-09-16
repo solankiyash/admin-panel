@@ -1,0 +1,45 @@
+.box {
+    width: 300px;
+    padding: 100px;
+    margin: 100px auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 45px;
+
+    border-radius: 10px;
+    border-color: rgb(194, 173, 173);
+    border-style: none;
+    border: 1px solid #333;
+    box-sizing: border-box;
+  }
+  .input-field:focus {
+    outline: none;
+    border: 1px solid #ddd5d5; 
+  }
+  
+  .submit-btn {
+    width: 80%;
+    padding: 10px;
+    background-color: #592cc2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  
